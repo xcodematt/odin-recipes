@@ -1,1 +1,1 @@
-# odin-recipes
+This will be a recipe page created for The Odin Project. 
